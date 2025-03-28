@@ -1,7 +1,7 @@
 # BTech-Project
 
 ### EAR ENHANCEMENT DEVICE
-#####We have always imagined how it would feel if we could have heightened 
+We have always imagined how it would feel if we could have heightened 
 senses. Would it be beneficial for the current human condition or would it be too 
 much for the brain to process those signals which are beyond our range of hearing 
 or seeing or feeling. With this imagination of feeling what is beyond our grip of 
